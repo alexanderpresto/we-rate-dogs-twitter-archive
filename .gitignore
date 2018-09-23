@@ -2,3 +2,4 @@
 *.tsv
 *.txt
 twitter-archive-enhanced.csv
+.ipynb_checkpoints/
